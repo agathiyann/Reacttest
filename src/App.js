@@ -14,7 +14,7 @@ function App() {
     <><>
     <React.Fragment>
     <><Container maxWidth="sm">
-      <Box sx={{  height: '1340px',width:'1920px' }} style={{ padding: "150px 10px 0px 130px" }}>
+      <Box sx={{  height: '1340px',width:'1920px' }} style={{ padding: "150px 10px 0px 150px" }}>
       <HorizontalLinearStepper/>
       </Box>
     </Container>
